@@ -547,46 +547,6 @@ if selected == "Interactive Data Analysis":
         except Exception as e:
             print(e)
 
-if selected == "Contributors":
-
-    st.subheader("Contributors")
-
-
-    st.write("Project Leads-  [Vaasu Bisht](https://github.com/vaasu2002) and [Eeman Majumder](https://github.com/Eeman1113)")
-    contributors = """
-
-    Project Contributors in aplhabetical order:
-
-    1.	Aditya Bhate
-    2.	Aiswarya Jyothirmayi Devi
-    3.	Akshit Srivastava 
-    4.	Ameya Sharma
-    5.	Ananya Mohanty 
-    6.	Ananya Tiwari
-    7.	Aniruddha Kumar
-    8.	Astha Srivastava 
-    9.	Ayushka Behere
-    10.	Dhruvil Jain
-    11.	Kshitij Singh
-    12.	Mansuriya Raj Kalpeshbhai
-    13.	Muskaan Bahri
-    14.	Navneet Lamba 
-    15.	Pranav Pratyush
-    16.	Punya Saraogi
-    17.	Pushpendra Kushwaha
-    18.	Qurat Ul Aaein 
-    19.	Reem Abdel-Salam
-    20.	Rishit Chugh 
-    21.	Rishita Bansal 
-    22.	Sayan Kumar
-    23.	Shilpa Gollamudi
-    24.	Sourav Dutta 
-    25.	Srijeeta Mukherjee
-    26.	Wallace Ferreira
-    """
-
-    st.text(contributors)
-
 
 
 if selected == "Dashboards":
