@@ -29,9 +29,6 @@ This study aims to develop a Machine Learning system for monitoring the water qu
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
 
 
-## Final Dashboard 
-
-https://vaasu2002-omdena-bhopal-water-quality-dashboard-main-pzjmtf.streamlit.app/#monitoring-the-water-quality-in-bhopal-region-using-satellite-imagery-and-gis-techniques
 
 
 ## Project Structure
